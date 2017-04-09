@@ -18,8 +18,8 @@ import android.text.Html;
 import android.util.Log;
 import android.util.Patterns;
 
-import com.fruitmarket.MainActivity;
-import com.fruitmarket.R;
+import com.atomcomputer.MainActivity;
+import com.atomcomputer.R;
 import com.google.android.gms.gcm.GcmListenerService;
 
 

@@ -22,7 +22,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
-import com.fruitmarket.R;
+import com.atomcomputer.R;
 
 
 @SuppressLint({ "SimpleDateFormat", "InflateParams" }) public class OrderdetailAdapter extends BaseAdapter {

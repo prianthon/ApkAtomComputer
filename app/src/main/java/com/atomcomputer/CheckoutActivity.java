@@ -1,7 +1,6 @@
-package com.fruitmarket;
+package com.atomcomputer;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
 import org.apache.http.NameValuePair;
@@ -9,9 +8,8 @@ import org.apache.http.message.BasicNameValuePair;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.fruitmarket.R.id;
+import com.atomcomputer.R.id;
 
-import fragments.MyCart;
 import util.Common;
 import util.ConnectionDetector;
 import Config.ConstValue;
@@ -29,8 +27,6 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
-import android.widget.Toast;
 
 @SuppressWarnings("deprecation")
 public class CheckoutActivity extends ActionBarActivity {

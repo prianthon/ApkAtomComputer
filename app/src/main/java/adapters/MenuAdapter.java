@@ -3,12 +3,10 @@ package adapters;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import com.fruitmarket.R;
+import com.atomcomputer.R;
 
 import android.app.Activity;
 import android.content.Context;
-import android.graphics.drawable.Drawable;
-import android.text.Html.ImageGetter;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

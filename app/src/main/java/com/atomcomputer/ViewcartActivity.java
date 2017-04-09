@@ -1,4 +1,4 @@
-package com.fruitmarket;
+package com.atomcomputer;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -10,11 +10,9 @@ import Config.ConstValue;
 import adapters.ViewCartAdapter;
 import util.ObjectSerializer;
 
-import android.R.menu;
 import android.support.v7.app.ActionBarActivity;
 import android.text.InputType;
 import android.annotation.SuppressLint;
-import android.app.ActionBar;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -31,7 +29,6 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.ListView;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 

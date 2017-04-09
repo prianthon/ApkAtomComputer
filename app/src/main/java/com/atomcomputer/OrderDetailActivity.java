@@ -1,4 +1,4 @@
-package com.fruitmarket;
+package com.atomcomputer;
 
 import imgLoader.JSONParser;
 
@@ -17,10 +17,9 @@ import util.ConnectionDetector;
 import util.ObjectSerializer;
 import Config.ConstValue;
 import adapters.OrderdetailAdapter;
-import android.app.ProgressDialog;
+
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
@@ -32,8 +31,6 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import com.fruitmarket.R;
 
 @SuppressWarnings("deprecation")
 public class OrderDetailActivity extends ActionBarActivity {

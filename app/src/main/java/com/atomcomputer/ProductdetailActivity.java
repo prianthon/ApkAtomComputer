@@ -1,17 +1,11 @@
-package com.fruitmarket;
+package com.atomcomputer;
 
 import fragments.MyCart;
 import imgLoader.AnimateFirstDisplayListener;
-import imgLoader.JSONParser;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import util.ConnectionDetector;
 import util.ObjectSerializer;
@@ -30,7 +24,6 @@ import android.app.ProgressDialog;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Paint;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;

@@ -21,16 +21,13 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.os.Environment;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
-import android.support.v4.widget.SlidingPaneLayout.LayoutParams;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.GridView;
-import android.widget.RelativeLayout;
 import android.widget.Toast;
 
 
@@ -38,8 +35,8 @@ import android.widget.Toast;
 
 import android.widget.AdapterView.OnItemClickListener;
 
-import com.fruitmarket.ProductsActivity;
-import com.fruitmarket.R;
+import com.atomcomputer.ProductsActivity;
+import com.atomcomputer.R;
 
 @SuppressLint("NewApi")
 public class HomeFragment extends Fragment {

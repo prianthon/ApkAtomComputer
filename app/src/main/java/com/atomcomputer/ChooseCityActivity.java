@@ -1,4 +1,4 @@
-package com.fruitmarket;
+package com.atomcomputer;
 
 import imgLoader.JSONParser;
 
@@ -20,8 +20,6 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.ExpandableListView;
-import android.widget.GridView;
 import android.widget.ListView;
 import android.widget.Toast;
 

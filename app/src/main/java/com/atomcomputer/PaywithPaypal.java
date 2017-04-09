@@ -1,4 +1,4 @@
-package com.fruitmarket;
+package com.atomcomputer;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -23,7 +23,6 @@ import com.paypal.android.sdk.payments.PayPalProfileSharingActivity;
 import com.paypal.android.sdk.payments.PayPalService;
 import com.paypal.android.sdk.payments.PaymentActivity;
 import com.paypal.android.sdk.payments.PaymentConfirmation;
-import com.paypal.android.sdk.payments.ShippingAddress;
 
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;

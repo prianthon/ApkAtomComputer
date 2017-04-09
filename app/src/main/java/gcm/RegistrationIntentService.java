@@ -13,7 +13,7 @@ import android.util.Log;
 import com.google.android.gms.gcm.GcmPubSub;
 import com.google.android.gms.gcm.GoogleCloudMessaging;
 import com.google.android.gms.iid.InstanceID;
-import com.fruitmarket.R;
+import com.atomcomputer.R;
 
 import java.io.IOException;
 import java.io.OutputStream;

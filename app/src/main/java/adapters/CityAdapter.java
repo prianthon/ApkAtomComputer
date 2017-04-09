@@ -18,7 +18,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.fruitmarket.R;
+import com.atomcomputer.R;
 
 public class CityAdapter extends BaseAdapter {
 	private Context context;

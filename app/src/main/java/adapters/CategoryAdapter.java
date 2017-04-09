@@ -25,7 +25,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.fruitmarket.R;
+import com.atomcomputer.R;
 
 public class CategoryAdapter extends BaseAdapter {
 	private ImageLoadingListener animateFirstListener = new AnimateFirstDisplayListener();

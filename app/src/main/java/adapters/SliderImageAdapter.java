@@ -23,7 +23,7 @@ import com.nostra13.universalimageloader.core.assist.ImageScaleType;
 import com.nostra13.universalimageloader.core.display.SimpleBitmapDisplayer;
 import com.nostra13.universalimageloader.core.listener.ImageLoadingListener;
 import com.nostra13.universalimageloader.utils.StorageUtils;
-import com.fruitmarket.R;
+import com.atomcomputer.R;
  
 public class SliderImageAdapter extends PagerAdapter{
 	private ImageLoadingListener animateFirstListener = new AnimateFirstDisplayListener();
