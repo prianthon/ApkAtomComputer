@@ -12,7 +12,7 @@ import com.paypal.android.sdk.payments.PayPalConfiguration;
 public class ConstValue {
 
 	//---Client ID for Paypal. Create your own app and add client id here. https://developer.paypal.com/developer/applications/
-	public static final String CONFIG_CLIENT_ID = "Aa4VQ8QL_oWS78tLrR9voNg-Pqi0lu3bcCMisE1Lez_OKwXQgo4t5mpP5dSxauY8JVkaowHc8AVFfJxX";
+	public static final String CONFIG_CLIENT_ID = "Ad6OjluSrIJFGI6cHwsaNTa8mVnV8MY9V2F-Qd7mqMlu6GuIYyzsBu7ADYeJQ-Npg8sKre10291_AC9p";
 	/**
 	 * - Set to PayPalConfiguration.ENVIRONMENT_PRODUCTION to move real money.
 	 *
@@ -23,9 +23,9 @@ public class ConstValue {
 	 * without communicating to PayPal's servers.
 	 */
 	public static final String CONFIG_ENVIRONMENT = PayPalConfiguration.ENVIRONMENT_NO_NETWORK;
-	public static final String CURRENCY = "USD";
+	public static final String CURRENCY = "IDR";
 
-	public static String SITE_URL = "http://iclauncher.com/fruitmarket";
+	public static String SITE_URL = "http://gplay.atomcomputer.id/";
 	public static String JSON_LOGIN = SITE_URL+"/index.php?component=json&action=login";
 	public static  String JSON_FORGOT = SITE_URL+"/index.php?component=json&action=forgot";
 	public static String JSON_REGISTER=SITE_URL+"/index.php?component=json&action=signup";

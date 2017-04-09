@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.3"
+    buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "com.fruitmarket";
+        applicationId "com.atomcomputer";
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 1
