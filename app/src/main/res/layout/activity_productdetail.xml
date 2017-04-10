@@ -179,7 +179,7 @@
                     android:textColor="#ffffff"
                     android:text="@string/btn_buynow"
                     android:padding="10dp"
-                    android:background="@color/fab_color_2"/>
+                    android:background="@color/fab_color_1"/>
 
             </RelativeLayout>
             
