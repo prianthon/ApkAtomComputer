@@ -34,7 +34,7 @@
             android:layout_height="wrap_content"
             android:text="TRACK ORDER"
             android:id="@+id/button"
-            android:background="#ce0606"
+            android:background="#3b81d0"
             android:textColor="#ffffff"
             android:layout_marginTop="20dp"/>
 
@@ -43,7 +43,7 @@
             android:layout_height="wrap_content"
             android:text="UPDATE PROFILE"
             android:id="@+id/button2"
-            android:background="#363636"
+            android:background="#3b81d0"
             android:textColor="#ffffff"
             android:layout_marginTop="20dp"
             />
@@ -53,7 +53,7 @@
             android:layout_height="wrap_content"
             android:text="CONTINUE SHOPPING"
             android:id="@+id/button3"
-            android:background="#238202"
+            android:background="#3b81d0"
             android:textColor="#ffffff"
             android:layout_marginTop="20dp"
             />

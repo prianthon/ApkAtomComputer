@@ -10,7 +10,7 @@
 <!-- This is the main color -->
 <item android:bottom="2dp">
      <shape>
-           <solid android:color="#FFA803" />
+           <solid android:color="#3b81d0" />
      </shape>
 </item>
 </layer-list>
